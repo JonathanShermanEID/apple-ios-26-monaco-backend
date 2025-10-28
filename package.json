@@ -1,0 +1,15 @@
+{
+  "name": "apple-ios-26-monaco-backend",
+  "version": "5.0.0",
+  "description": "Apple iOS 26 Monaco Edition Server Backend",
+  "author": "Jonathan Sherman",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
